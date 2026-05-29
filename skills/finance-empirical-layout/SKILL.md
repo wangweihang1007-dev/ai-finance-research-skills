@@ -24,6 +24,24 @@ Apply these rules regardless of the model or tool being used:
 7. Keep paths centralized and make scripts create missing output folders automatically.
 8. At the end, report the created or modified directory layout and key output paths.
 
+## Script
+
+Use `scripts/create_finance_empirical_project.py` to create a standard finance empirical project layout before writing empirical code.
+
+Example:
+
+```powershell
+python path\to\create_finance_empirical_project.py `
+  green-finance-did `
+  --root C:\Users\zhuifeng\Documents `
+  --title "Green Finance Policy and Corporate Innovation" `
+  --data-sources "CSMAR,Wind" `
+  --sample-period "2007-2024" `
+  --full
+```
+
+Use `--force` only when the project folder already exists and missing standard folders or config files should be added.
+
 ## Required Layout
 
 Use this structure for a new finance empirical project unless the repository already has a strict convention:

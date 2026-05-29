@@ -4,8 +4,8 @@ Reusable, model-agnostic instructions for AI coding agents that work on finance 
 
 ## Included Skills
 
-- `skills/finance-empirical-layout/`: a finance empirical project organization standard for Gemini, Claude, Codex, ChatGPT, and other coding agents.
-- `skills/finance-regression-table-export/`: export finance regression results into thesis-ready Word three-line tables.
+- `skills/finance-empirical-layout/`: a finance empirical project organization standard with a script for creating the directory layout.
+- `skills/finance-regression-table-export/`: export finance regression results into thesis-ready Word three-line tables with a DOCX export script.
 
 ## How To Use
 
