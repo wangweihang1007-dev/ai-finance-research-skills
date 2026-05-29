@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance Empirical Layout"
+  short_description: "Model-agnostic empirical file layout."
+  default_prompt: "Use $organize-code-artifacts to follow a model-agnostic finance empirical project layout for code, data, regression tables, figures, and outputs."
