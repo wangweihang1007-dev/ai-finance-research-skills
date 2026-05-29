@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finance Thesis Writing Polisher"
+  short_description: "Model-agnostic academic polishing for finance empirical theses."
+  brand_color: "#7C3AED"
+  default_prompt: "Use $finance-thesis-writing-polisher to turn my finance empirical notes, regression results, or draft paragraphs into cautious, thesis-ready academic writing."
+
+policy:
+  allow_implicit_invocation: true

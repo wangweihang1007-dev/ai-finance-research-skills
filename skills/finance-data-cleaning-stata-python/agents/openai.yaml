@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finance Data Cleaning"
+  short_description: "Model-agnostic Stata/Python cleaning for finance empirical data."
+  brand_color: "#0369A1"
+  default_prompt: "Use $finance-data-cleaning-stata-python to clean my finance thesis data into a regression-ready panel with documented filters, merges, variables, winsorization, lags, and validation checks."
+
+policy:
+  allow_implicit_invocation: true

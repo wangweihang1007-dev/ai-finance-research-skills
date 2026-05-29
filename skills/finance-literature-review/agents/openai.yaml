@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finance Literature Review"
+  short_description: "Model-agnostic Chinese and English finance literature synthesis."
+  brand_color: "#0F766E"
+  default_prompt: "Use $finance-literature-review to organize my Chinese and English finance literature into themes, mechanisms, findings comparison, research gaps, and marginal contributions."
+
+policy:
+  allow_implicit_invocation: true

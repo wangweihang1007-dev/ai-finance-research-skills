@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finance Thesis Methodology"
+  short_description: "Model-agnostic empirical design for finance master's theses."
+  brand_color: "#2563EB"
+  default_prompt: "Use $finance-thesis-methodology to turn my finance thesis topic into a model-agnostic empirical design with variables, model choice, identification, robustness tests, heterogeneity tests, and mechanism tests."
+
+policy:
+  allow_implicit_invocation: true

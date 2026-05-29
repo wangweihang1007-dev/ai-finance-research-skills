@@ -1,0 +1,8 @@
+interface:
+  display_name: "Finance Empirical Diagnosis"
+  short_description: "Model-agnostic checks for finance thesis regressions and tests."
+  brand_color: "#B45309"
+  default_prompt: "Use $finance-empirical-diagnosis to review my finance regression results for model problems, coefficient interpretation, robustness, endogeneity, heterogeneity, mechanism tests, and thesis wording risks."
+
+policy:
+  allow_implicit_invocation: true
