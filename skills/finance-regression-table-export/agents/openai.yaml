@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance Regression Tables"
+  short_description: "Export thesis-ready Word regression tables."
+  default_prompt: "Use $finance-regression-table-export to convert finance regression results into thesis-ready Word three-line tables."
